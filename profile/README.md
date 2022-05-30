@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/94432600/160968532-52f4b8a5-ce1b-423e-9cc5-15e9a90ef056.png" align=left width=50 >makecake 소개
+# <img src="https://velog.velcdn.com/images/tty5799/post/ca07d3ee-2bdb-4825-b3f3-cb1f3582e818/image.png" align=left width=50 >makecake 소개
 
 <img src="https://velog.velcdn.com/images/tty5799/post/3a6328e7-fdb6-4e46-a0a2-834d1edde501/image.png" width="80%">
 
