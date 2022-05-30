@@ -30,7 +30,9 @@
 ## ✨ 핵심기능
 
  **`메인 페이지 - 카테고리 별 조회 & 검색 기능`** 
- <img src="https://velog.velcdn.com/images/tty5799/post/f23ab9a3-b126-40b9-b7ba-20b386f3e665/image.png">
+ 
+ 
+ <img src="https://velog.velcdn.com/images/tty5799/post/f23ab9a3-b126-40b9-b7ba-20b386f3e665/image.png" width="80%" >
  
  QueryDSL을 이용한 동적 쿼리 작성으로 전공 별/지역 별 조회 기능과 [제목/닉네임/내용] 별 검색 기능을 조합해서 사용할 수 있도록 했습니다.
  
