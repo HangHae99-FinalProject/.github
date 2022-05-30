@@ -58,7 +58,7 @@
  
   <img src="https://velog.velcdn.com/images/tty5799/post/01396e0b-f1e4-496f-b405-b051e95a540c/image.png" width="60%" >
  
- 웹 사이트의 한계를 벗어나기 위해 JavaMailSender를 이용하여 사이트에 접속하지 않은 상황에서 발생한 이벤트를 이메일 알림으로 받을 수 있도록 하였습니다.
+ 웹 사이트의 한계를 벗어나기 위해 JavaMailSender를 이용하여 사이트에 접속하지 않은 상황에서 발생한 이벤트를 이메일 알림으로 받을 수 있도록 했습니다.
  
  
  
