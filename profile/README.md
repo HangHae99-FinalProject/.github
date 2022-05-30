@@ -36,11 +36,15 @@
  
  QueryDSL을 이용한 동적 쿼리 작성으로 전공 별/지역 별 조회 기능과 [제목/닉네임/내용] 별 검색 기능을 조합해서 사용할 수 있도록 했습니다.
  
+ 
+ 
  **`실시간 1:1 채팅 기능`** 
  
   <img src="https://velog.velcdn.com/images/tty5799/post/6d8c53af-300f-4aeb-bbac-655b90f74cb5/image.png" width="60%" >
  
  [WebSocket / Stomp pub/sub] 을 활용한 실시간 데이터 전송으로 유저간 1: 1 채팅 기능을 구현했습니다.
+ 
+ 
  
  **`실시간 알람 기능`**
  
@@ -48,11 +52,15 @@
  
  사이트를 이용 중인 유저에게 SSE(Server Sent Event)를 이용하여 실시간 알람을 기능 제공하고 있습니다.
  
+ 
+ 
   **`이메일 알람 기능`**
  
   <img src="https://velog.velcdn.com/images/tty5799/post/01396e0b-f1e4-496f-b405-b051e95a540c/image.png" width="60%" >
  
  웹 사이트의 한계를 벗어나기 위해 JavaMailSender를 이용하여 사이트에 접속하지 않은 상황에서 발생한 이벤트를 이메일 알림으로 받을 수 있도록 하였습니다.
+ 
+ 
  
  <br />
 
