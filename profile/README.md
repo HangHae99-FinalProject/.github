@@ -67,37 +67,36 @@
 ## 👥 팀 소개
 
 #### `Frontend`
- <a href="https://github.com/nevergettingold" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=React&message=오성택 (팀장) &color=61dafb&style=for-the-badge&>"/></a>
- <a href="https://github.com/durukim" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=React&message=김두루 &color=61dafb&style=for-the-badge&>"/></a>
- <a href="https://github.com/jeonghwanJay" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=React&message=지정환 &color=61dafb&style=for-the-badge&>"/></a>
+ <a href="https://github.com/nevergettingold" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=React&message=윤성용 (팀장) &color=61dafb&style=for-the-badge&>"/></a>
+ <a href="https://github.com/durukim" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=React&message=박재민 &color=61dafb&style=for-the-badge&>"/></a>
 
 #### `Backend`
-<a href="https://github.com/minjoo-kou" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=구민주 (부팀장) &color=08CE5D&style=for-the-badge&>"/></a>
-<a href="https://github.com/sun-land" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=고혜지 &color=08CE5D&style=for-the-badge&>"/></a>
-<a href="https://github.com/devssk" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=송성근 &color=08CE5D&style=for-the-badge&>"/></a>
+<a href="https://github.com/minjoo-kou" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=권규민 (부팀장) &color=08CE5D&style=for-the-badge&>"/></a>
+<a href="https://github.com/sun-land" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=유혜민 &color=08CE5D&style=for-the-badge&>"/></a>
+
 
 #### `Designer`
- <img height="40"  src="https://img.shields.io/static/v1?label=Design&message=황성원 &color=FF7F50&style=for-the-badge&>"/></a>
- <img height="40"  src="https://img.shields.io/static/v1?label=Design&message=이지해 &color=FF7F50&style=for-the-badge&>"/></a>
+ <img height="40"  src="https://img.shields.io/static/v1?label=Design&message=김정선 &color=FF7F50&style=for-the-badge&>"/></a>
+ <img height="40"  src="https://img.shields.io/static/v1?label=Design&message=마은민 &color=FF7F50&style=for-the-badge&>"/></a>
 
 <br />
 
 
 ## 🗓 프로젝트 기간
-* 2022년 2월 25일 ~ 2022년 4월 9일   
-* 배포 : 2022년 3월 30일
+* 2022년 4월 22일 ~ 2022년 6월 3일   
+* 배포 : 2022년 5월 31일
 
 <br />
 
 ## 📜 아키텍쳐
-<img src="https://user-images.githubusercontent.com/94432600/161881274-5a5c7f38-acdf-47e9-9c8c-45b716d4f982.png">   
+<img src="https://velog.velcdn.com/images/tty5799/post/444e86d8-5aa0-40d9-8926-731cf50f4b7b/image.png">   
 
 <br />
 
 
 ## 🎈 LINK  
-🎥 프로젝트 발표 영상 : 
-📔 노션 링크 : 
+📔  **[노션 링크]( https://maroon-borogovia-266.notion.site/55e2db12612549328acae676de9c9a60)**
+
 
 
 <br />
@@ -131,16 +130,3 @@
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
 
 
-<!-- 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> -->
