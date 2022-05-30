@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/94432600/160968532-52f4b8a5-ce1b-423e-9cc5-15e9a90ef056.png" align=left width=50 >makecake 소개
 
-<img src="https://user-images.githubusercontent.com/94432600/161845731-81e78a42-4913-41da-a184-199dfc31f171.png" width="80%">
+<img src="https://velog.velcdn.com/images/tty5799/post/3a6328e7-fdb6-4e46-a0a2-834d1edde501/image.png" width="80%">
 
 ### 나만의 케이크, 그려보지 않을래요?
 
