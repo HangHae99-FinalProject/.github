@@ -1,14 +1,14 @@
-# <img src="https://velog.velcdn.com/images/tty5799/post/ca07d3ee-2bdb-4825-b3f3-cb1f3582e818/image.png" align=left width=50 >makecake 소개
+# <img src="https://velog.velcdn.com/images/tty5799/post/ca07d3ee-2bdb-4825-b3f3-cb1f3582e818/image.png" align=left width=50 >모험:모두의 경험 소개
 
 <img src="https://velog.velcdn.com/images/tty5799/post/3a6328e7-fdb6-4e46-a0a2-834d1edde501/image.png" width="80%">
 
-### 나만의 케이크, 그려보지 않을래요?
+### 같이 모험을 떠나볼까요?
 
-- 메이크케이크는 주문제작 케이크의 불편하고 복잡한 주문 과정을 편하게 만들기 위한 서비스입니다. 
+- 모험:모두의 경험은 대학생 팀업 서비스 입니다. 
 
-- 주문제작 케이크 매장 정보들을 쉽게 찾아볼 수 있고, 직접 도안을 그려 볼 수 있습니다.
+- 전공별 카테고리를 골라 필요한 전공을 구해 같이 새로운 경험을 할 수 있습니다.
 
-🍰 **[makecake 서비스 바로가기](https://make-cake.com/)**
+🍰 **[mohum 서비스 바로가기](https://www.everymohum.com/)**
 
 🎬 **[서비스 시연 영상](https://www.youtube.com/watch?v=T9QGqgg9Y40)**
 
