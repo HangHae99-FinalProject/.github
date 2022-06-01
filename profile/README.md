@@ -67,12 +67,12 @@
 ## 👥 팀 소개
 
 #### `Frontend`
- <a href="https://github.com/nevergettingold" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=React&message=윤성용 (팀장) &color=61dafb&style=for-the-badge&>"/></a>
- <a href="https://github.com/durukim" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=React&message=박재민 &color=61dafb&style=for-the-badge&>"/></a>
+ <a href="https://github.com/tty5799" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=React&message=윤성용 (팀장) &color=61dafb&style=for-the-badge&>"/></a>
+ <a href="https://github.com/losajjang" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=React&message=박재민 &color=61dafb&style=for-the-badge&>"/></a>
 
 #### `Backend`
-<a href="https://github.com/minjoo-kou" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=권규민 (부팀장) &color=08CE5D&style=for-the-badge&>"/></a>
-<a href="https://github.com/sun-land" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=유혜민 &color=08CE5D&style=for-the-badge&>"/></a>
+<a href="https://github.com/kwongyumin" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=권규민 (부팀장) &color=08CE5D&style=for-the-badge&>"/></a>
+<a href="https://github.com/hyemco" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=유혜민 &color=08CE5D&style=for-the-badge&>"/></a>
 
 
 #### `Designer`
@@ -97,10 +97,7 @@
 ## 🎈 LINK  
 📔  **[노션 링크]( https://maroon-borogovia-266.notion.site/55e2db12612549328acae676de9c9a60)**
 
-
-
 <br />
-
 
 ## 🛠 Tech Stack
 **Frontend Tech Stack**  
@@ -128,5 +125,3 @@
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
 <img src="https://img.shields.io/badge/Apache JMeter-D22128?style=for-the-badge&logo=Apache JMeter&logoColor=white">
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
-
-
